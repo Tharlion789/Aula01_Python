@@ -1,0 +1,6 @@
+print('Oque é Python?')
+print('Python é uma linguagem de progamação')
+print('Qual progama (IDE) executa o arquivo .py?')
+print('Os progamas capazes de executar um arquivo com exteção .py são: Jython, CPython, VSCode')
+print('Qual foi a linguagem de progamação que python substituiu?')
+print('Python substituiu a linguem de progamação ABC')
